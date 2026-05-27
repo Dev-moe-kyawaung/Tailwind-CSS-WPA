@@ -24,10 +24,6 @@ A premium dark bento-grid portfolio built with **Tailwind CSS**, **vanilla JavaS
 ## Local Build
 If you want to build Tailwind locally:
 
-```bash
-npm install
-npx tailwindcss -i ./input.css -o ./style.css --watch
-# Moe Kyaw Aung — Tailwind CSS + PWA Portfolio
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-222222?logo=githubpages&logoColor=white)](https://YOUR-GITHUB-PAGES-LINK)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4.0-38BDF8?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
